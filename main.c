@@ -6,5 +6,6 @@ int main()
     printf("Hello, World2!\n");
     exit();
     print("test");
+    exit();
     return 0;
 }
